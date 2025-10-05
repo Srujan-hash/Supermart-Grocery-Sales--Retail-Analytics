@@ -69,6 +69,7 @@ Discount Rate vs. Transaction Profit (Scatter Plot).
 
 
 Monthly Sales Trend Over Time (Line Plot).
+![Image Alt](https://github.com/Srujan-hash/Supermart-Grocery-Sales--Retail-Analytics/blob/3833f9665b5f9f6778f47020525feac11d3f9a5f/WhatsApp%20Image%202025-10-05%20at%2021.59.22_171709ba.jpg)
 
 
 
